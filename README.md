@@ -14,8 +14,8 @@ Libraries needed to be installed before using FaceRecognizer app:
   * [OpenCV](https://opencv.org/) (4.2.0)
   * [Skimage](https://scikit-image.org/) (0.16.2)
   
-Numbers in parentheses are versions of libraries used in development of the application. You can use different versions of aforementioned libraries, but if you do so, application running is not guaranteed.
-  
+Numbers in parentheses are versions of libraries used in development of the application. You can use different versions, but if you do so, application running is not guaranteed.
+
 ## Running the app
 
 You can run the application from command line by executing [main.py](main.py) file:
