@@ -1,6 +1,6 @@
 # FaceRecognizer
 
-FaceRecognizer is a Python demo application used for face recognition.
+FaceRecognizer is a Python demo application used for face recognition. I has been created as a part of my [bachelor thesis](https://opac.crzp.sk/?fn=detailBiblioForm&sid=81B8C7E3C61A011F1630311BFB16&seo=CRZP-detail-kniha) and consists of simple GUI, SQLite database used as storage for identities and trained convolutional neural network (CNN) with same architecture as [Light-CNN network](https://arxiv.org/abs/1511.02683).
 
 ## Prerequisites
 
